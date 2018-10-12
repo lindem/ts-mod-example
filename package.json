@@ -1,5 +1,5 @@
 {
-  "name": "ts-setup",
+  "name": "ts-mod-template",
   "version": "1.0.0",
   "description": "basic typescript module setup using mocha/chai as testrunner",
   "main": "index.js",
@@ -31,9 +31,9 @@
     "@types/mocha": "^5.2.1",
     "chai": "^4.1.2",
     "mocha": "^5.2.0",
-    "nyc": "^12.0.2",
+    "nyc": "^13.0.1",
     "rimraf": "^2.6.2",
-    "ts-node": "^6.1.0",
-    "typescript": "^2.9.1"
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.3"
   }
 }
